@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://pestcontrollexingtonky-com.netlify.app/sitemap.xml
+Sitemap: https://pestcontrollexingtonky.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
